@@ -24,7 +24,7 @@
 ```bash
 jason@purdue:~$ ./whoami
 
-> math + cs student
+> math + cs student, with a hint of music virtuoso
 > building systems for finance, ai, and real-world use
 > likes turning theory -> executable things
 
