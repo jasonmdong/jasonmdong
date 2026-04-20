@@ -34,6 +34,8 @@ status:
   sleep_schedule  = eventually consistent
 ```
 
+![](https://komarev.com/ghpvc/?username=jasonmdong&color=002E63)
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="README Jokes" />
 </div>
