@@ -22,7 +22,7 @@
 </div>
 
 ```bash
-jason@purdue:~$ ./whoami
+dong366@purdue.edu:~$ ./whoami
 
 > math + cs student, with a hint of music virtuoso
 > building systems for finance, ai, and real-world use
